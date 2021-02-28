@@ -1,0 +1,17 @@
+[28/Feb/2021:11:32:51] (I): WordPress Instance Info:
+[28/Feb/2021:11:32:51] (I): Home URL : http://morithm.com
+[28/Feb/2021:11:32:51] (I): Site URL : http://morithm.com
+[28/Feb/2021:11:32:51] (I): WordPress Version : 5.6.2
+[28/Feb/2021:11:32:51] (I): Onboarding Version : 1.1.4
+[28/Feb/2021:11:32:51] (I): Multisite : No
+[28/Feb/2021:11:32:51] (I): Server Info : nginx/1.18.0
+[28/Feb/2021:11:32:51] (I): PHP Version : 7.4.15
+[28/Feb/2021:11:32:51] (I): HTTPS : No
+[28/Feb/2021:11:32:51] (I): PHP Max Execution Time : 600
+[28/Feb/2021:11:32:51] (I): PHP Max Input Vars : 1000
+[28/Feb/2021:11:32:51] (I): Max Upload Size : 2147483648
+[28/Feb/2021:11:32:51] (I): Plugins:
+[28/Feb/2021:11:32:51] (I): [PLUGIN] Nginx Helper : v2.2.2 (rtCamp)
+[28/Feb/2021:11:32:51] (I): [PLUGIN] Redis Object Cache : v2.0.17 (Till Krüss)
+[28/Feb/2021:11:32:51] (I): [PLUGIN] Templates Patterns Collection : v1.1.4 (ThemeIsle)
+[28/Feb/2021:11:32:51] (I): [PLUGIN] WPForms Lite : v1.6.5 (WPForms)
