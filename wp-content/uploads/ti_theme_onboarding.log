@@ -1,19 +1,20 @@
-[28/Feb/2021:20:35:28] (I): WordPress Instance Info:
-[28/Feb/2021:20:35:28] (I): Home URL : http://morithm.com
-[28/Feb/2021:20:35:28] (I): Site URL : http://morithm.com
-[28/Feb/2021:20:35:28] (I): WordPress Version : 5.6.2
-[28/Feb/2021:20:35:28] (I): Onboarding Version : 1.1.4
-[28/Feb/2021:20:35:28] (I): Multisite : No
-[28/Feb/2021:20:35:28] (I): Server Info : nginx/1.18.0
-[28/Feb/2021:20:35:28] (I): PHP Version : 7.4.15
-[28/Feb/2021:20:35:28] (I): HTTPS : No
-[28/Feb/2021:20:35:28] (I): PHP Max Execution Time : 600
-[28/Feb/2021:20:35:28] (I): PHP Max Input Vars : 1000
-[28/Feb/2021:20:35:28] (I): Max Upload Size : 2147483648
-[28/Feb/2021:20:35:28] (I): Plugins:
-[28/Feb/2021:20:35:28] (I): [PLUGIN] CDN Enabler : v1.0.9 (KeyCDN)
-[28/Feb/2021:20:35:28] (I): [PLUGIN] Nginx Helper : v2.2.2 (rtCamp)
-[28/Feb/2021:20:35:28] (I): [PLUGIN] Redis Object Cache : v2.0.17 (Till Krüss)
-[28/Feb/2021:20:35:28] (I): [PLUGIN] Templates Patterns Collection : v1.1.4 (ThemeIsle)
-[28/Feb/2021:20:35:28] (I): [PLUGIN] Toggle Content : v1.0.2 (WPDeveloper)
-[28/Feb/2021:20:35:28] (I): [PLUGIN] WPForms Lite : v1.6.5 (WPForms)
+[28/Feb/2021:23:50:02] (I): WordPress Instance Info:
+[28/Feb/2021:23:50:02] (I): Home URL : https://morithm.com
+[28/Feb/2021:23:50:02] (I): Site URL : https://morithm.com
+[28/Feb/2021:23:50:02] (I): WordPress Version : 5.6.2
+[28/Feb/2021:23:50:02] (I): Onboarding Version : 1.1.4
+[28/Feb/2021:23:50:02] (I): Multisite : No
+[28/Feb/2021:23:50:02] (I): Server Info : nginx/1.18.0
+[28/Feb/2021:23:50:02] (I): PHP Version : 7.4.15
+[28/Feb/2021:23:50:02] (I): HTTPS : Yes
+[28/Feb/2021:23:50:02] (I): PHP Max Execution Time : 600
+[28/Feb/2021:23:50:02] (I): PHP Max Input Vars : 1000
+[28/Feb/2021:23:50:02] (I): Max Upload Size : 2147483648
+[28/Feb/2021:23:50:02] (I): Plugins:
+[28/Feb/2021:23:50:02] (I): [PLUGIN] CSS &amp; JavaScript Toolbox : v11.2 (Wipeout Media)
+[28/Feb/2021:23:50:02] (I): [PLUGIN] Nginx Helper : v2.2.2 (rtCamp)
+[28/Feb/2021:23:50:02] (I): [PLUGIN] Really Simple SSL : v4.0.9 (Really Simple Plugins)
+[28/Feb/2021:23:50:02] (I): [PLUGIN] Redis Object Cache : v2.0.17 (Till Krüss)
+[28/Feb/2021:23:50:02] (I): [PLUGIN] Templates Patterns Collection : v1.1.4 (ThemeIsle)
+[28/Feb/2021:23:50:02] (I): [PLUGIN] Toggle Content : v1.0.2 (WPDeveloper)
+[28/Feb/2021:23:50:02] (I): [PLUGIN] WPForms Lite : v1.6.5 (WPForms)
